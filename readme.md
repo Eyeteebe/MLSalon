@@ -1,4 +1,4 @@
-[TOC]
+[toc]
 
 # MLSalon
 
@@ -8,7 +8,11 @@
 
 ## NLP
 
-### word2vec
+### Word Embeding
+
+[word2vec demo](resources/word2vec_demo.ipynb)
+
+[word2vec skip-gram](resources/word2vec_skip_gram.ipynb)
 
 ### RNN-like
 
